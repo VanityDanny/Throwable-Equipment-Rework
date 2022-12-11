@@ -7,7 +7,7 @@ Here is my idea on how they can be reworked. When you press G, you’ll have the
 You got 5 seconds to do this. Holding the unpinned grenade for 5 seconds will get yourself killed. If the grenade on the floor is touched by a player or vehicle before 5 seconds, it will detonate.</br>
 <center>
 <figure>
-<img src="D:/PRinTing/RHCT/ThrowingMechanicVisual.png" alt="ThrowingMechanicVisual">
+<img src="https://cdn.discordapp.com/attachments/934160724907945984/1051314155476488262/ThrowingMechanicVisual.png" alt="ThrowingMechanicVisual">
 <figure>
 </center>
 Credits to <font color="purple">TaskForceJean</font> <font face="arial"><font size="5">for the Suggestion idea</font>
